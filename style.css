@@ -1,0 +1,31 @@
+body{
+    height: 100%;
+    background: black;
+    /* align-items: center; */
+    color: white;
+   display: flex;
+   text-transform: capitalize;
+justify-content: center;
+} 
+ p{
+font-size: 48px;
+color: black;
+background-color: red;
+padding-bottom: 36px;
+padding-top: 36px;
+padding-right: 100px;
+padding-left: 100px;
+} 
+.btnDiv{
+    margin: 26px;
+    display: flex;
+    justify-content: center;
+   flex-direction: column;
+   gap: 6px;
+} 
+ button{
+    text-transform: capitalize;
+    font-size:26px ;
+    background-color: chocolate;
+    border-radius: 8x;
+} 
